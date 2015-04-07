@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit.aogp-devs.com
+port=29418
+project=platform_bootable_recovery.git
+defaultbranch=5.1
